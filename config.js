@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/public`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/klimakrise`, // This path is subpath of your hosting https://domain/portfolio
     heading: 'Klimakrise🔥 im Schnelldurchlauf⏩',
     subHeading: 'Lesedauer: 1 bis 2 Kaltgetränke. (Mit Videos, nicht nur langweiliger Text, versprochen!)',
   // social

@@ -1,7 +1,7 @@
 const config = require('./config');
 
 module.exports = {
-  pathPrefix: `/public`,
+  pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
   },
