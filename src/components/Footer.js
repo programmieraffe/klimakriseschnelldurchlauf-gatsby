@@ -5,13 +5,6 @@ export default function Footer() {
   return (
     <div id="footer">
       <div className="container medium">
-        <header className="major last">
-          <h2>Questions or comments?</h2>
-        </header>
-
-        <p>Life will feel it is always a great time to chat</p>
-
-        <ContactForm />
 
         <ul className="icons">
           {config.socialLinks.map(social => {

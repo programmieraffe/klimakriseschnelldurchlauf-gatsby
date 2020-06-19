@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter directive', // <title>
+  siteTitle: 'Klimakrise🔥 im Schnelldurchlauf', // <title>
   manifestName: 'directive',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -15,22 +15,17 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/sroertgen',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://twitter.com/steffenr42',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:kontakt@steffen-roertgen.de',
     },
   ],
 };
