@@ -8,6 +8,3 @@ Bei jedem Push in das Git-Repo wird eine Github-Action angetriggert, die die Sei
 
 Wie ich das ganze Projekt aufgesetzt habe, werde ich demnächst in einem gesonderten Blog-Post beschreiben.
 
-## License 
-
-CC0
