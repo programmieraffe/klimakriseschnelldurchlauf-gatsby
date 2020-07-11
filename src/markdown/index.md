@@ -136,6 +136,7 @@ Also Butter bei die Fische: Gibt es einen Zusammenhang zwischen CO2 in der Atmos
 
 <div about="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes">
 <iframe src="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes" width="512" height="415" frameborder="0"></iframe>
+
 <p class="copyright">Video: <a rel="cc:attributionURL" href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes" property="dc:title">ZDF/Terra X/Gruppe 5/Luise Wagner, Jonas Sichert, Andreas Hougardy - Wie CO2 den Klimawandel verursacht</a>, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> (via <a href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?uselang=de#filelinks">Wikimedia Commons</a>)</p>
 </div>
 
