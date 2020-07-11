@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/klimakrise`, // This path is subpath of your hosting https://domain/portfolio
     heading: 'Klimakrise🔥 im Schnelldurchlauf⏩',
-    subHeading: 'Lesedauer: 1 bis 2 Kaltgetränke. (Mit Videos, nicht nur langweiliger Text, versprochen!)',
+    subHeading: 'Lesedauer: 1 bis 2 Bier oder Mate, <br> mit Videos, nicht nur langweiliger Text, versprochen!',
   // social
-    socialLinks: [ 
+    socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',

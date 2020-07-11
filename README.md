@@ -8,3 +8,10 @@ Bei jedem Push in das Git-Repo wird eine Github-Action angetriggert, die die Sei
 
 Wie ich das ganze Projekt aufgesetzt habe, werde ich demnächst in einem gesonderten Blog-Post beschreiben.
 
+
+## Setup
+
+1. npm install -g gatsby-cli
+Change to folder and execute
+2. npm install
+2. gatsby develop

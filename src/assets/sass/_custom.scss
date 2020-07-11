@@ -1,0 +1,56 @@
+/* include it via @import at end of main.scss */
+
+#logo{
+  margin:0 auto;
+  text-align:center;
+  border-bottom:20px dashed #EA5658;
+  padding: 6em 0 4em 0;
+  h1{
+    display:none;
+  }
+}
+#header{
+  background:none;
+  padding: 6em 0 2em 0;
+
+  .custom-logo{
+    max-width:100%;
+  }
+
+  h1{
+    display:none;
+  }
+
+  p{
+    color:grey;
+    font-size: 1.05em;
+  }
+
+  .button {
+    background: _palette(accent2, bg);
+    color: _palette(accent2, fg-bold);
+
+    &:hover {
+			background: lighten(_palette(accent2, bg), 10);
+		}
+
+		&:active {
+			background: darken(_palette(accent2, bg), 5);
+		}
+
+  }
+}
+header.major{
+  display:none;
+}
+
+.descriptionBox{
+  color:grey;
+  font-size:14px;
+}
+
+#main{
+  &:before{
+    display:none;
+  }
+}

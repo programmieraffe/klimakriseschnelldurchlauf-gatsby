@@ -15,9 +15,16 @@ const IndexPage = ({data}) => {
             <header className="major container medium">
               {data.markdownRemark.frontmatter.title}
             </header>
-            <div className="box container">
+
+            <div className="box container" id="letsGo">
             <div
               dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+            />
+            </div>
+
+            <div className="box container descriptionBox">
+            <div
+              dangerouslySetInnerHTML={{ __html: data.markdownRemark.frontmatter.descriptionbox }}
             />
             </div>
           </div>
@@ -33,10 +40,10 @@ query IndexPageQuery {
     markdownRemark(fileAbsolutePath: {regex: "/index.md/"}) {
         id
         frontmatter {
-        title
+        title,
+        descriptionbox
         }
         html
   }
 }
 `
-

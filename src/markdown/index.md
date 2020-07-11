@@ -1,24 +1,22 @@
 ---
 title: "⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein."
+descriptionbox: "<a href='x'>X</a>(IMAGE) Text und Idee: Matthias Andrasch, Web-Entwickler und studierter Medienpädagoge. ⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020"
 ---
 
-
-(Text und Idee stammen von [Matthias Andrasch](www.twitter.com/m_andrasch) Repo: https://github.com/oerhoernchen/klimakriseschnelldurchlauf. Dies ist eine Bearbeitung, die es ermöglicht den Quelltext in Markdown statt in HTML zu editieren. More Infos soon...)
-
-
 ### Hey du, kurz mal Zeit?
+Ja, ich weiß. Eigentlich ist jetzt Feierabend / Mittagspause / Wochenende (oder du sitzt gerade auf dem Klo mit Smartphone). Und eigentlich willst du einfach mal den Kopf ausmachen. Schule / Ausbildung / Studium / Bewerbungen oder dein Job sind schon nervig genug und Spaß am Leben muss ja auch irgendwie drin sein auf diesem Planeten. Und ja, der ganze Klimakram ist anscheinend kompliziert. Alle labern rum, tausend Zahlen und Meinungen kursieren, - anstrengend, richtig anstrengend! Wie so eine nie endende Politik-Talkshow, bei der sich niemand ausreden lässt. 🙅‍♂️<br/>
+Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis in der Bundesliga im Detail diskutieren kann, der versteht auch den Klimakram und was zu tun ist. So kompliziert ist es nämlich gar nicht und 15 Minuten reichen vollkommen aus, um das Grundproblem zu verstehen. Also auf geht's, kühles Getränk aufmachen und weiterlesen:
 
-
-<div about="youth-3465038_1920_pixabay.jpg" class="copyright"> 
-<img src="./youth-3465038_1920_pixabay.jpg" alt="Jugendliche an einem Steg" /> 
-<span property="dc:title">Bild</span> 
+<div about="youth-3465038_1920_pixabay.jpg" class="copyright">
+<img src="./youth-3465038_1920_pixabay.jpg" alt="Jugendliche an einem Steg" />
+<span property="dc:title">Bild</span>
  von <a rel="cc:attributionURL dc:creator" href="https://pixabay.com/de/photos/jungend-gruppe-wasser-urlaub-meer-3465038/" property="cc:attributionName">birgl</a> under <a rel="license" href="https://pixabay.com/de/">Pixabay-Lizenz</a>
 </div>
 
 
-Ja, ich weiß. Eigentlich ist jetzt Feierabend / Mittagspause / Wochenende (oder du sitzt gerade auf dem Klo mit Smartphone). Und eigentlich willst du einfach mal den Kopf ausmachen. Schule / Ausbildung / Studium / Bewerbungen oder dein Job sind schon nervig genug und Spaß am Leben muss ja auch irgendwie drin sein auf diesem Planeten. Und ja, der ganze Klimakram ist anscheinend kompliziert. Alle labern rum, tausend Zahlen und Meinungen kursieren, - anstrengend, richtig anstrengend! Wie so eine nie endende Politik-Talkshow, bei der sich niemand ausreden lässt. 🙅‍♂️
- 
-Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis in der Bundesliga im Detail diskutieren kann, der versteht auch den Klimakram und was zu tun ist. So kompliziert ist es nämlich gar nicht und 15 Minuten reichen vollkommen aus, um das Grundproblem zu verstehen. Also auf geht's, kühles Getränk aufmachen und weiterlesen:
+
+
+
 
 ### So, was ist wirklich wichtig?
 
@@ -31,13 +29,13 @@ Eigentlich muss die Menschheit nur zwei Diagramme im Auge behalten: "CO2-Konzent
   <a href="https://commons.wikimedia.org/wiki/File:ISS-48_flight_control_team_during_Launch_of_Soyuz_MS-01.jpg">ISS-48 flight control team during Launch of Soyuz MS-01</a>
   , bearbeitet von
   <a rel="dc:creator" property="cc:attributionName" href="https://twitter.com/m_andrasch">Matthias Andrasch</a>,
-  <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" rel="license">CC0 1.0</a>, Texte und Bilder/Diagramme hinzugefügt von Matthias Andrasch, <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" rel="license">CC0 1.0</a>. Verwendete Bilder: Grafik: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, 
-  <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, 
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a> 
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" rel="license">CC0 1.0</a>, Texte und Bilder/Diagramme hinzugefügt von Matthias Andrasch, <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode" rel="license">CC0 1.0</a>. Verwendete Bilder: Grafik: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>,
+  <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>,
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA 4.0</a>
   und NASA <a href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>
   , <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature Anomaly</a>
-  , als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a> 
-  sowie NASA/Apollo 17 crew; taken by either <a href="https://en.wikipedia.org/wiki/Harrison_Schmitt">Harrison Schmitt</a> or 
+  , als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>
+  sowie NASA/Apollo 17 crew; taken by either <a href="https://en.wikipedia.org/wiki/Harrison_Schmitt">Harrison Schmitt</a> or
   <a href="https://en.wikipedia.org/wiki/Ronald_Evans_(astronaut)">Ron Evans</a> <a href="https://en.wikipedia.org/wiki/en:Apollo_17">Apollo 17</a>, <a href="https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg">The Earth seen from Apollo 17</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>, Bearbeitung: Ausgeschnitten</p>
 </div>
 
@@ -49,16 +47,16 @@ Das erste Messdiagramm (Mitte) zeigt den aktuellen Anteil von Kohlenstoffdioxid,
 
 <div about="1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" class="copyright">
 <a href="./1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" target="_blank">
- <img src="./1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" alt="Grafik über monatliche CO2-Konzentation" /> 
+ <img src="./1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" alt="Grafik über monatliche CO2-Konzentation" />
  </a>
- Grafik: 
- <a rel="cc:attributionURL" property="dc:title" href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a> 
- von <a rel="cc:attributionURL dc:creator" href="https://commons.wikimedia.org/wiki/User:Delorme" property="cc:attributionName">Delorme</a> 
- under 
+ Grafik:
+ <a rel="cc:attributionURL" property="dc:title" href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>
+ von <a rel="cc:attributionURL dc:creator" href="https://commons.wikimedia.org/wiki/User:Delorme" property="cc:attributionName">Delorme</a>
+ under
  <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>
 </div>
 
- 
+
 Wie du siehst: Seit 1958 steigt der Wert der parts per million (ppm, linke Achse) ständig weiter. 2019 wurde (schon wieder) ein neuer Höchstwert, nämlich 415 parts per million, gemessen in der Erdatmosphäre (<a href="https://www.scinexx.de/news/geowissen/co2-werte-erreichen-neuen-rekordwert/" target="_blank">Quelle</a>). Gemessen wird die CO2-Konzentration täglich in der <a href="https://de.wikipedia.org/wiki/Messstation_Mauna_Loa">„Messstation Mauna Loa"</a> in Haiwaii, welche sich auf einem Vulkangipfel befindet und daher eine gute Lage für eine möglichst genaue Messung bietet. Aber Moment - kann man das wirklich so genau messen, wie viel Gas in unserer Atmosphäre rumschwirrt? Und was war denn vor 1958, wie viel CO2 war da in der Atmosphäre? Hier kurz mal aufpassen, die Birne einschalten und das Video bis Minute 3:40 schauen:
 
 
@@ -68,8 +66,8 @@ Wie du siehst: Seit 1958 steigt der Wert der parts per million (ppm, linke Achse
 
 <p class="copyright">
  Video:
- <a rel="cc:attributionURL" property="dc:title" href="https://www.daserste.de/information/nachrichten-wetter/wetter/videos/02_Jahresgang_der_CO2_Kurve-100.html">ARD/Wetter vor Acht</a> 
- von <a rel="cc:attributionURL dc:creator" href="https://www.daserste.de" property="cc:attributionName">ARD</a> 
+ <a rel="cc:attributionURL" property="dc:title" href="https://www.daserste.de/information/nachrichten-wetter/wetter/videos/02_Jahresgang_der_CO2_Kurve-100.html">ARD/Wetter vor Acht</a>
+ von <a rel="cc:attributionURL dc:creator" href="https://www.daserste.de" property="cc:attributionName">ARD</a>
  nicht unter freier Lizenz</p>
  </div>
 
@@ -84,7 +82,7 @@ Das zweite Diagramm zeigt die durchschnittliche Abkühlung oder Erwärmung, wenn
 
 <div about="langde-1280px-Global_Temperature_Anomaly.svg.png" class="copyright">
 <a href="./langde-1280px-Global_Temperature_Anomaly.svg.png" target="_blank">
- <img src="./langde-1280px-Global_Temperature_Anomaly.svg.png" alt="Jugendliche an einem Steg" /> 
+ <img src="./langde-1280px-Global_Temperature_Anomaly.svg.png" alt="Jugendliche an einem Steg" />
  </a>
  Grafik: <span property="dc:creator">NASA</span> <a rel="cc:attributionURL" property="dc:title"  href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>, <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature	Anomaly</a>, als gemeinfrei gekennzeichnet, Details auf <a rel="license" href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>
 </div>
@@ -95,7 +93,7 @@ Was sehen wir? Seit 1940 hat sich die Durchschnittstemperatur global gesehen als
 
 <div about="warming_stripes_hannover.png" class="copyright">
 <a href="./warming_stripes_hannover.png" target="_blank">
- <img src="./warming_stripes_hannover.png" alt="Jugendliche an einem Steg" /> 
+ <img src="./warming_stripes_hannover.png" alt="Jugendliche an einem Steg" />
  </a>
 Screenshot: <a rel="cc:attributionURL" property="dc:title" href="https://www.zeit.de/wissen/umwelt/2019-12/klimawandel-globale-erwaermung-warming-stripes-wohnort">Warming Stripes Tool von ZEIT Online</a>, Screenshot nicht unter freier Lizenz
 </div>
@@ -124,7 +122,7 @@ Gibt es nun also einen direkten Zusammenhang zwischen CO2-Konzentration und durc
 
 
 <div about="zusammenhang.jpg" class="copyright">
-<img src="./zusammenhang.jpg" alt="Jugendliche an einem Steg" /> 
+<img src="./zusammenhang.jpg" alt="Jugendliche an einem Steg" />
 Eigene Zusammenstellung, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-ShareAlike 4.0</a>, verwendete Bilder: Grafik: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA	4.0</a> und NASA <a href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>, <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature Anomaly</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>
 </div>
 
@@ -155,7 +153,7 @@ Nunjaaaaa... Die Szenarien über 1,5 Grad sehen eher so aus, dass Klimaanlagen a
 <iframe width="560" height="415" src="https://www.youtube-nocookie.com/embed/FoMzyF_B7Bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p class="copyright">
-Video: 
+Video:
 <a rel="cc:attributionURL" property="dc:title" href="https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-szenarien-der-erderwaermung-was-waere-wenn--100.html">Quarks 19.03.2019/WDR/Daniel Haase</a>, nicht unter freier Lizenz</p>
 </div>
 
@@ -221,6 +219,3 @@ Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer andere
 				</ul>
 
 Feedback gerne per Twitter-DM an <a href="https://twitter.com/OERhoernchen">@OERhoernchen</a> (oder als <a href="https://github.com/oerhoernchen/klimakriseschnelldurchlauf/issues">Issue bei Github</a> eintragen).</p>
-			
-
-
