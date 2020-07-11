@@ -4,7 +4,6 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 import '../assets/sass/main.scss';
-/*import '../assets/sass/custom.scss';*/
 
 class Layout extends Component {
   constructor(props) {
