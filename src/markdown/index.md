@@ -3,9 +3,9 @@ title: "⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedb
 descriptionbox: "<a href='x'>X</a>(IMAGE) Text und Idee: Matthias Andrasch, Web-Entwickler und studierter Medienpädagoge. ⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020"
 ---
 
-### Hey du, kurz mal Zeit?
 
-<i>Lesedauer: 1 Bier oder Mate </i>
+
+### Hey du, kurz mal Zeit für Klimakrise?
 
 Ja, ich weiß. Eigentlich ist jetzt Feierabend / Mittagspause / Wochenende (oder du sitzt gerade auf dem Klo mit Smartphone). Und eigentlich willst du einfach mal den Kopf ausmachen. Schule / Ausbildung / Studium / Bewerbungen oder dein Job sind schon nervig genug und Spaß am Leben muss ja auch irgendwie drin sein auf diesem Planeten. Und ja, der ganze Klimakram ist anscheinend kompliziert. Alle labern rum, tausend Zahlen und Meinungen kursieren, - anstrengend, richtig anstrengend! Wie so eine nie endende Politik-Talkshow, bei der sich niemand ausreden lässt. 🙅‍♂️<br/>
 Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis in der Bundesliga im Detail diskutieren kann, der versteht auch den Klimakram und was zu tun ist. So kompliziert ist es nämlich gar nicht. 🍺 Also auf geht's, kühles Getränk aufmachen und weiterlesen:
@@ -170,19 +170,25 @@ Was also tun, um die Erhitzung des Planeten zu stoppen und die krassesten Szenar
 
 Greta Thunberg spricht in ihrem aktuellen <a href="https://twitter.com/GretaThunberg/status/1274618877247455233">Podcast „Greta Thunberg: Humanity has not yet failed“</a> sogar von 7 Jahren, in den wir gemeinsam als Menschheit eine Riesenleistung vollbringen müssen.
 
-Ob einzelne Nationalstaaten oder die EU derzeit auf einem guten Weg sind bei der Einhaltung der Klimaziele kann man u.a. beim Climate Action Tracker (<a href="https://climateactiontracker.org/countries/eu/" target="_blank">EU</a>, <a	href="https://climateactiontracker.org/countries/switzerland/" target="_blank">Schweiz</a>, <a href="https://climateactiontracker.org/countries/germany/" target="_blank">Deutschland</a>) oder im <a href="https://www.germanwatch.org/sites/germanwatch.org/files/Klimaschutz-Index%202019_Die%20wichtigsten%20Ergebnisse.pdf">Klimaschutz-Index</a> einsehen, den Schweden 2019 anführte. Über die Klimaziel-Einhaltung von Österreich (nicht beim Climate Action Tracker einsehbar) berichtet	u.a. <a href="https://www.derstandard.at/story/2000115397279/oesterreich-weit-ab-vom-kurs-bei-klimazielen" target="_blank">Der Standard</a>. Spoiler: Vorbildlich ist da gerade keins der deutschsprachigen Länder.
+Ob einzelne Nationalstaaten oder die EU derzeit auf einem guten Weg sind bei der Einhaltung der Klimaziele kann man u.a. beim Climate Action Tracker (<a href="https://climateactiontracker.org/countries/eu/" target="_blank">EU</a>, <a	href="https://climateactiontracker.org/countries/switzerland/" target="_blank">Schweiz</a>, <a href="https://climateactiontracker.org/countries/germany/" target="_blank">Deutschland</a>) oder im <a href="https://www.germanwatch.org/sites/germanwatch.org/files/Klimaschutz-Index%202019_Die%20wichtigsten%20Ergebnisse.pdf">Klimaschutz-Index</a> einsehen, den Schweden 2019 anführte. Über die Klimaziel-Einhaltung von Österreich (nicht beim Climate Action Tracker einsehbar) berichtet	u.a. <a href="https://www.derstandard.at/story/2000115397279/oesterreich-weit-ab-vom-kurs-bei-klimazielen" target="_blank">Der Standard</a>. Spoiler: Vorbildlich ist da gerade keins der deutschsprachigen Länder und auch die EU ist kein glänzendes Vorbild.
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="de" dir="ltr">Das CO₂-Restbudget für Deutschland beträgt laut <a href="https://twitter.com/Umweltrat?ref_src=twsrc%5Etfw">@Umweltrat</a> nur noch 6,7 Gt. Bei linearer Abnahme reicht dieses Restbudget nur noch bis 2038. Die Bundesregierung verletzt bewusst das <a href="https://twitter.com/hashtag/ParisAgreement?src=hash&amp;ref_src=twsrc%5Etfw">#ParisAgreement</a> und ihre Klimaschutzmaßnahmen bekommen dafür das Prädikat „Höchst Unzureichend“. <a href="https://t.co/NZ5zuunclY">pic.twitter.com/NZ5zuunclY</a></p>&mdash; Michael Flammer 🌍🌡#KlimaVor8 (@Jumpsteady) <a href="https://twitter.com/Jumpsteady/status/1272802043233808385?ref_src=twsrc%5Etfw">June 16, 2020</a></blockquote>
-
 
 Die Zeit ist also knapp und es gibt viele Möglichkeiten, daran mitzuwirken, um die Erhitzung unseres Planeten zu stoppen und zu begrenzen. Dabei sollten wir allerdings beachten, dass es nicht nur um Umwelt- und Technikfragen geht: „Umweltfragen sind immer Verteilungsfragen und Verteilungsfragen sind immer Gerechtigkeitsfragen“ (<a href="https://franzmagazine.com/2020/05/27/das-neue-neu-heisst-mehr-aus-weniger-maja-goepel/">Maja Göpel</a>).
 
 In dem Sinne: Act now!
 
-- Fridays For Future
-- German Zero
+- Fridays For Future -> Newsletter | Mitmachen
+- German Zero -> Newsletter | Mitmachen
 - https://reset.org/act/12-tipps-was-du-sofort-den-klimawandel-tun-kannst
 - https://utopia.de/galerien/klimaschutz-tipps/#1
+- Aktuelle News und Videoschnipsel bei Twitter: https://twitter.com/Jumpsteady
+- Aktuelles zur Mobilität: https://twitter.com/kkklawitter
+- Instagram: (Luisa Neubauer, ...)?
+- Engineers for Future, Teachers for Future, Scientists for Future, Students for Future, Workers for Future, Developers for Future
+
+„Greta Thunberg Zitat -> most people lack basic knowledge“
+Weitersagen: Teilen
 
 ### Bonus: Weitere Videos
 
@@ -207,6 +213,8 @@ Bei einer Nachnutzung bitte die <a href="https://creativecommons.org/licenses/by
 
 ### Credits
 
+⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020
+
 Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer anderen Freigabe/Lizenz nachgenutzt werden können:</p>
 				<ul class="default">
 					<li>Text: Matthias Andrasch für das Projekt OERhörnchen, Freigabe unter <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a> (Zitate wurden im Sinne des Zitatrechts eingebunden)
@@ -215,6 +223,9 @@ Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer andere
 					<li>Theme: <a href="http://html5up.net">HTML5 UP</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></li>
 					<li>Favicon: <a href="https://openmoji.org/library/#search=fire&emoji=1F525">Fire by OpenMoji</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-ShareAlike 4.0</a></li>
 					<li>Quelltext: <a href="https://github.com/sroertgen/klimakrise">Github</a></li>
+          <li>Logo: Selber erstellt mit <a href="canva.com">canva.com</a>, Schriftart: <a href="https://fontsarena.com/open-sauce-sans-by-creative-sauce/">Open Sauce</a> (SIL Open Font License), <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></li>
 				</ul>
+
+Danke an die „Das Gute ruft“ Community sowie an Steffen Rörtgen für die Umwandlung des Projekts mit GatsbyJS.
 
 Feedback gerne per Twitter-DM an <a href="https://twitter.com/OERhoernchen">@OERhoernchen</a> (oder als <a href="https://github.com/oerhoernchen/klimakriseschnelldurchlauf/issues">Issue bei Github</a> eintragen).</p>
