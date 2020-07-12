@@ -1,6 +1,6 @@
 /* include it via @import at end of main.scss */
 
-#logo{
+#logoHeader{
   margin:0 auto;
   text-align:center;
   border-bottom:20px dashed #EA5658;
@@ -12,11 +12,18 @@
     margin:20px 0px;
   }
 
-  .subHeading{
-    font-size:0.9em;
+  .button{
+    margin-bottom:10px;
+    padding-bottom:0px;
+  }
+  .descriptionTop{
+    font-size:0.85em;
+  }
+  .descriptionBottom{
+    font-size:0.85em;
   }
 }
-#header{
+/*#header{
   background:none;
   padding: 6em 0 2em 0;
 
@@ -46,7 +53,7 @@
 		}
 
   }
-}
+}*/
 header.major{
   display:none;
 }
@@ -61,10 +68,14 @@ header.major{
     display:none;
   }
 
-  p.copyright {
+  p.copyright, div.copyright {
 			color: grey;
 			font-size: 11px;
 			margin-top: 0;
 			margin-bottom: 25px;
 		}
+}
+
+#mainArticleContentForScrollProgress{
+  padding-bottom:400px;
 }

@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Klimakrise🔥 im Schnelldurchlauf', // <title>
+  siteTitle: 'Klimakrise🔥 im Schnelldurchlauf⏩', // <title>
   manifestName: 'directive',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,9 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/klimakrise`, // This path is subpath of your hosting https://domain/portfolio
-    heading: 'Klimakrise🔥 im Schnelldurchlauf⏩',
+    buttonText: "Let's go",
+    descriptionTop: '🕒  Lesedauer: 1 bis 2 Mate | 👨‍💻 Text: Matthias Andrasch',
+    descriptionBottom: '(Mit Videos, nicht nur langweiliger Text - versprochen!)',
     subHeading: 'Lesedauer: 1 bis 2 Bier oder Mate, <br> mit Videos, nicht nur langweiliger Text, versprochen!',
   // social
     socialLinks: [

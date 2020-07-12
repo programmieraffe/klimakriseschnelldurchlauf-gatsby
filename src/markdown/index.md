@@ -1,25 +1,15 @@
 ---
-title: "⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein."
-descriptionbox: "<a href='x'>X</a>(IMAGE) Text und Idee: Matthias Andrasch, Web-Entwickler und studierter Medienpädagoge. ⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020"
+buttonText: "Let's go"
+descriptionTop: '🕒  Lesedauer: 1 bis 2 Mate | 👨‍💻 Text: Matthias Andrasch'
+descriptionBottom: '(Mit Videos, nicht nur langweiliger Text - versprochen!)'
 ---
 
-
+<div id="mainArticleContentForScrollProgress">
 
 ### Hey du, kurz mal Zeit für Klimakrise?
 
 Ja, ich weiß. Eigentlich ist jetzt Feierabend / Mittagspause / Wochenende (oder du sitzt gerade auf dem Klo mit Smartphone). Und eigentlich willst du einfach mal den Kopf ausmachen. Schule / Ausbildung / Studium / Bewerbungen oder dein Job sind schon nervig genug und Spaß am Leben muss ja auch irgendwie drin sein auf diesem Planeten. Und ja, der ganze Klimakram ist anscheinend kompliziert. Alle labern rum, tausend Zahlen und Meinungen kursieren, - anstrengend, richtig anstrengend! Wie so eine nie endende Politik-Talkshow, bei der sich niemand ausreden lässt. 🙅‍♂️<br/>
-Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis in der Bundesliga im Detail diskutieren kann, der versteht auch den Klimakram und was zu tun ist. So kompliziert ist es nämlich gar nicht. 🍺 Also auf geht's, kühles Getränk aufmachen und weiterlesen:
-
-<!-- <div about="youth-3465038_1920_pixabay.jpg" class="copyright">
-<img src="./youth-3465038_1920_pixabay.jpg" alt="Jugendliche an einem Steg" />
-<span property="dc:title">Bild</span>
- von <a rel="cc:attributionURL dc:creator" href="https://pixabay.com/de/photos/jungend-gruppe-wasser-urlaub-meer-3465038/" property="cc:attributionName">birgl</a> under <a rel="license" href="https://pixabay.com/de/">Pixabay-Lizenz</a>
-</div> -->
-
-
-
-
-
+Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis in der Bundesliga im Detail diskutieren kann, der versteht auch den Klimakram und was zu tun ist. So kompliziert ist es nämlich gar nicht. 🍹 Also kühles Getränk aufmachen und weiterlesen:
 
 ### So, was ist wirklich wichtig?
 
@@ -119,7 +109,7 @@ Gibt es nun also einen direkten Zusammenhang zwischen CO2-Konzentration und durc
 
 
 <div about="zusammenhang.jpg" class="copyright">
-<img src="./zusammenhang.jpg" alt="Jugendliche an einem Steg" />
+<img src="./zusammenhang.jpg" />
 Eigene Zusammenstellung, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-ShareAlike 4.0</a>, verwendete Bilder: Grafik: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA	4.0</a> und NASA <a href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>, <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature Anomaly</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>
 </div>
 
@@ -130,18 +120,23 @@ Also Butter bei die Fische: Gibt es einen Zusammenhang zwischen CO2 in der Atmos
 
 
 <div about="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes">
+
 <iframe src="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes" width="512" height="415" frameborder="0"></iframe>
 
-<p class="copyright">Video: <a rel="cc:attributionURL" href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes" property="dc:title">ZDF/Terra X/Gruppe 5/Luise Wagner, Jonas Sichert, Andreas Hougardy - Wie CO2 den Klimawandel verursacht</a>, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> (via <a href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?uselang=de#filelinks">Wikimedia Commons</a>)</p>
+<div class="copyright">Video: <a rel="cc:attributionURL" href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?embedplayer=yes" property="dc:title">ZDF/Terra X/Gruppe 5/Luise Wagner, Jonas Sichert, Andreas Hougardy - Wie CO2 den Klimawandel verursacht</a>, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0</a> (via <a href="https://commons.wikimedia.org/wiki/File:Wie_CO2_dem_Klimawandel_verursacht.webm?uselang=de#filelinks">Wikimedia Commons</a>)</div>
 </div>
 
 
 Okay, Treibhauseffekt, klingt langweilig, aber gecheckt - grobe Daumenregel: Mehr CO2 in Atmosphäre = stärkerer Treibhauseffekt = steigende Temperaturen = Erde, Mensch, Tier und Ökosysteme schwitzen und sind unter Stress 🥵🔥 Einige Tierarten versuchen daher bereits in kältere Regionen zu flüchten (<a href="https://futurezone.at/science/massenflucht-von-tieren-an-die-pole-hat-begonnen/400928198" target="_blank">Massenflucht von Tieren an die Pole hat begonnen</a>). Mehr zum wissenschaftlichen Nachweis des Zusammenhangs findet sich übrigens u.a. auf klimafakten.de (<a href="https://www.klimafakten.de/behauptungen/behauptung-der-co2-anstieg-ist-nicht-ursache-sondern-folge-des-klimawandels" target="_blank">"Ist vielleicht etwas anderes als der Mensch die Ursache?"</a>).
 
 
-#### Okaaay, aber ist das wirklich krass schlimm?
+#### Fazit?
 
-Wir halten also zum Abschluss fest (ganz kurz noch durchhalten und dranbleiben!): Der Planet Erde hat sich durchschnittlich schon um 1 Grad erwärmt, Auslöser sind zum größten Teil wir Menschen. <br>Aber ein bisschen höhere Temperaturen im Sommer kriegen wir ja auch mit Klimananlagen in Mitteleuropa irgendwie geregelt?  Geht ja in anderen Ländern auch problemlos? Lebewesen und Ökosysteme passen sich an, Stichwort Evolution? <br />Nunjaaaaa... Die Szenarien über 1,5 Grad sehen eher so aus, dass Klimaanlagen allein nicht reichen werden - siehe dieses letzte Video (danach sind wir durch! 🙌):
+Wir halten also zum Abschluss fest (ganz kurz noch durchhalten und dranbleiben!): Der Planet Erde hat sich durchschnittlich schon um 1 Grad erwärmt, Auslöser sind zum größten Teil wir Menschen.
+
+„Okay“”, wirst du vielleicht sagen, „ein bisschen höhere Temperaturen im Sommer kriegen wir ja auch mit Klimananlagen in Mitteleuropa irgendwie geregelt?  Geht ja in anderen Ländern auch problemlos? Lebewesen und Ökosysteme passen sich an, Stichwort Evolution?“
+
+Nunjaaaaa... Die Szenarien über 1,5 Grad sehen eher so aus, dass Klimaanlagen allein nicht reichen werden - siehe dieses letzte Video:
 
 
 <div about="https://www.youtube-nocookie.com/embed/FoMzyF_B7Bg">
@@ -154,8 +149,11 @@ Video:
 </div>
 
 
-Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der CO2-Ausstoß massiv reduziert werden (<i>Humans, you had one job!</i>). Ist keine Raketenwissenschaft, oder? Weiter unten gibt es jetzt noch Handlungsoptionen ("Bonus: Act now") und eine Liste weiterer Videos ("Bonus: Weitere Videos"), falls du mal noch Bock und Zeit hast. So und das war es schon. Top, dass du so weit gekommen bist!
+Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der CO2-Ausstoß massiv reduziert werden. Ist keine Raketenwissenschaft, oder? Weiter unten gibt es jetzt noch Handlungsoptionen und mehr Videos und Infos.
 
+THE END.
+
+</div> <!-- eo # mainArticleContentForScrollProgress -->
 
 ### Bonus: Act now?
 
@@ -178,20 +176,30 @@ Die Zeit ist also knapp und es gibt viele Möglichkeiten, daran mitzuwirken, um 
 
 In dem Sinne: Act now!
 
-- Fridays For Future -> Newsletter | Mitmachen
+Informiert bleiben:
+
+- Fridays For Future DE -> Newsletter | Mitmachen | instagram
+- Fridays For Future AT -> Newsletter | Mitmachen | instagram
+- Fridays For Future CH -> Newsletter | Mitmachen | instagram
+
 - German Zero -> Newsletter | Mitmachen
 - https://reset.org/act/12-tipps-was-du-sofort-den-klimawandel-tun-kannst
 - https://utopia.de/galerien/klimaschutz-tipps/#1
 - Aktuelle News und Videoschnipsel bei Twitter: https://twitter.com/Jumpsteady
 - Aktuelles zur Mobilität: https://twitter.com/kkklawitter
-- Instagram: (Luisa Neubauer, ...)?
+- Instagram: (Luisa Neubauer, Leonie Bremer...)?
+
+Sich Gruppen anschließen / für Gruppen spenden:
+
 - Engineers for Future, Teachers for Future, Scientists for Future, Students for Future, Workers for Future, Developers for Future
+- XR
+- German Zero => Mitmachen
 
-„Greta Thunberg Zitat -> most people lack basic knowledge“
+Sich weiterbilden:
+- „Greta Thunberg Zitat -> most people lack basic knowledge“
 Weitersagen: Teilen
-
-### Bonus: Weitere Videos
-
+- Fairstanable Unfuck Economy
+- Maja Goepel
 - [MaiLab (Mai Thi Nguyen-Kim ): "Klimawandel: Das ist jetzt zu tun! (feat. Rezo)"](https://www.youtube.com/watch?v=4K2Pm82lBi8)
 - [Y-Kollektiv: Fridays For Future – SchülerInnen streiken, um die Welt zu retten](https://www.youtube.com/watch?v=mEztI2p_9Qc)
 - [SWR: Die Welt neu denken | Maja Göpel, Mitbegründerin von "Scientists for Future"](https://www.youtube.com/watch?v=PWS7fSNJmaA)
@@ -202,18 +210,17 @@ Weitersagen: Teilen
 - [Potsdam-Institut für Klimafolgenforschung (PIK): Eine kurze Geschichte der CO2-Emissionen](https://www.youtube.com/watch?v=SAfIe6Pqaec&feature=emb_title)
 
 
-### Lizenz (Weiternutzung)
+
+### Credits
+
+⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020
+
 
 <img src="./cc_by_sharealike.png" style="width:150px;margin-bottom:5px;" />
 
 Bei diesem Werk handelt es sich um ein <a href="https://open-educational-resources.de/was-ist-oer-3-2/">OER (Open Educational Resource)</a>. Es kann weitergenutzt und verändert werden. Urheber: <i>Matthias Andrasch für das Projekt OERhörnchen</i>, das Gesamtwerk ist lizenziert als <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-ShareAlike 4.0)</a> - ausgenommen sind anders gekennzeichnete Inhalte. Das Werk wurde mit der HTML-Designvorlage „Directive by <a href="http://html5up.net">HTML5 UP</a>“ (Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>) erstellt.</p>
 
 Bei einer Nachnutzung bitte die <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">Lizenzbedingungen</a> sowie die <a href="https://open-educational-resources.de/oer-tullu-regel/">TULLU-Regel</a> beachten, Unterstützung bei Fragen u.a. in dieser <a href="https://www.facebook.com/groups/OERde/">Facebook-Gruppe</a> oder bei <a href="https://open-educational-resources.de/">OERinfo</a></p>
-
-
-### Credits
-
-⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Letzte Änderung: 11.07.2020
 
 Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer anderen Freigabe/Lizenz nachgenutzt werden können:</p>
 				<ul class="default">

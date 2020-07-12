@@ -43,6 +43,6 @@ module.exports = {
                 },
             ], // just in case those previously mentioned remark plugins sound cool :)
         },
-    },
+    }
   ],
 };
