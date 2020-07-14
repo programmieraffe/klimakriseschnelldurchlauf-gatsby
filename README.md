@@ -17,3 +17,5 @@ Change to folder and execute
 2. gatsby develop
 
 ## 2DO
+
+- 
