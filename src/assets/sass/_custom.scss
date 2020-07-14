@@ -3,7 +3,7 @@
 #logoHeader{
   margin:0 auto;
   text-align:center;
-  border-bottom:20px dashed #EA5658;
+  /*border-bottom:20px dashed grey;*/
   padding: 6em 0 4em 0;
   h1{
     display:none;
@@ -11,16 +11,35 @@
   img{
     margin:20px 0px;
   }
-
   .button{
-    margin-bottom:10px;
+    margin-top:25px;
     padding-bottom:0px;
+    color:white;
+    background-color: #EA5658;
+  }
+  a.button, a.button:visited{
+    color:white;
+  }
+  .imgLink{
+    border:0px;
   }
   .descriptionTop{
     font-size:0.85em;
   }
   .descriptionBottom{
     font-size:0.85em;
+    display:none;
+  }
+
+  .privacyNotice{
+    max-width:600px;
+    margin:0 auto;
+    padding-top:10px;
+    font-size:0.85em;
+    line-height:1.5em;
+  }
+  a,a:visited{
+      color:grey;
   }
 }
 /*#header{
