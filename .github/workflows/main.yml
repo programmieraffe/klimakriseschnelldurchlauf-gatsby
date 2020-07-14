@@ -15,20 +15,16 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: remove public and data-dir if already exists
-        run: rm -rf public data
+      - name: remove public dir, if exists
+        run: rm -rf public
 
       - run: npm install
-      
+
       - run: npm run build
 
-      - uses: actions/upload-artifact@master
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
-          name: public
-          path: public
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          ftp-server: ${{ secrets.FTP_SERVER }}
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
