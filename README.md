@@ -15,3 +15,5 @@ Wie ich das ganze Projekt aufgesetzt habe, werde ich demnächst in einem gesonde
 Change to folder and execute
 2. npm install
 2. gatsby develop
+
+## 2DO
