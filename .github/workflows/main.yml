@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - gh-pages
 
 jobs:
   build:
@@ -21,6 +20,9 @@ jobs:
       - run: npm install
 
       - run: npm run build
+
+      - name: List output files
+        run: ls
 
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
